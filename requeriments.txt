@@ -1,0 +1,5 @@
+Django==1.4
+#django-extensions==0.8
+#ipython==0.12
+#readline==6.2.2
+#wsgiref==0.1.2
